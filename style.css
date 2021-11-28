@@ -1,0 +1,26 @@
+p   {
+    color: red;
+  }
+
+*{
+    border: solid;
+}
+
+.header{
+    color: sandybrown;
+    background-color: white;
+    display: flex;
+    justify-content: start;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-betweens;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
